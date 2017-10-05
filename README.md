@@ -8,7 +8,7 @@ https://mokuzenshingo.github.io/GANNTrader/Untitled.html
 ##  Performance analysis
 https://mokuzenshingo.shinyapps.io/return_analysis/
 
-## how to training
+## How to training
 
 set working directory
 ``` setwd(./R/) ```
