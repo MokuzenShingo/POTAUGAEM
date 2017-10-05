@@ -1,6 +1,6 @@
 # POTAUGAEM
 
-## reference
+## Reference
 
 ##  Live predicting site
 https://mokuzenshingo.github.io/GANNTrader/Untitled.html
