@@ -5,10 +5,13 @@
 ##  Live predicting site
 https://mokuzenshingo.github.io/GANNTrader/Untitled.html
 
-## set working directory
-setwd(./R/)
+##  Performance analysis
+https://mokuzenshingo.shinyapps.io/return_analysis/
 
-## how to
+## how to taining
+
+#### set working directory
+setwd(./R/)
 
 ### step 1. train the agents
 
