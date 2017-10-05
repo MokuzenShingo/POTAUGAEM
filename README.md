@@ -11,7 +11,7 @@ https://mokuzenshingo.shinyapps.io/return_analysis/
 ## how to taining
 
 #### set working directory
-setwd(./R/)
+``` setwd(./R/) ```
 
 ### step 1. train the agents
 
