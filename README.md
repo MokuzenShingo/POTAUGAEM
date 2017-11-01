@@ -1,6 +1,7 @@
 # POTAUGAEM
 
 ## Reference Paper
+http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=80106
 
 ##  Live predicting site
 https://mokuzenshingo.github.io/GANNTrader/Untitled.html
