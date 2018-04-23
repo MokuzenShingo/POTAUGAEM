@@ -4,10 +4,7 @@
 http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=80106
 
 ##  Live predicting site
-https://mokuzenshingo.github.io/GANNTrader/Untitled.html
-
-##  Performance analysis
-https://mokuzenshingo.shinyapps.io/return_analysis/
+https://mokuzenshingo.shinyapps.io/GANNTrader/
 
 ## How to training
 
